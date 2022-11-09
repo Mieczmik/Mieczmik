@@ -30,7 +30,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miko%C5%82aj-miecznikowski/)
 
 ## Projects
-[Face mask detection](https://github.com/Mieczmik/face-mask-detection)
+[Face Mask Detection](https://github.com/Mieczmik/face-mask-detection)
+[Credit Defaults Forecasting](https://github.com/Mieczmik/credit-defaults-forecasting)
+[Titanic Kaggle Competition](https://github.com/Mieczmik/titanic-kaggle-competition)
+[Forecasting of Bitcoin Price](https://github.com/Mieczmik/forecasting-bitcoin-price)
+
 
 ## GitHub Stats
 
