@@ -2,7 +2,6 @@
 
 ## I'm a Data Scientist and Scientific Researcher!!
 - :books: I’m currently learning everything 🤣 but lately I've been drinking the most coffee with Machine Learning stuff :heart_eyes:
-- 🥅 2022 Goals: Join Data Science commercially
 - 👯 I’m looking to collaborate with other Data Scientists
 - 🌱 Besides, my free time I spend actively :bike::swimmer::soccer::surfer::sailboat::ski:
 
